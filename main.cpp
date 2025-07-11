@@ -9,7 +9,7 @@
 ***** followed by all students with grade B, and so on. */
 
 // Programmer - Ashley Jacobson
-// Tester - Audrey Tapia
+// Tester - Audrey Tapia (TESTED)
 // Group Project A //
 /***** Members *****/
 /***** Ashley Jacobson *****/
